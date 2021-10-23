@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;600&display=swap');
+
+body{
+    font-family: Nunito;
+    color: #444;
+    margin: 0px;
+}
+header, footer{
+    height: 130px;
+    background-color: #1F0303;
+}
+nav{
+    height: 60px;
+    background-color: #E75B43;
+}
+main{
+    height: 550px;
+    background-color: #e8e8e8;
+    width: 900px;
+    margin: auto;
+}
