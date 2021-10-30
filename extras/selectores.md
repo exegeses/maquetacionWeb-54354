@@ -1,6 +1,6 @@
 # Tipos de selectores
 
-> En css tenemso diferentes tipos de selectores
+> En css tenemos diferentes tipos de selectores
 
 ## Selector de etiqueta 
 > Utilizamos el selector de etiqueta para redefinir la estética de una etiqueta en el HTML, ***cada vez*** que aparezca en el documento.
