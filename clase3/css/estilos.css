@@ -55,6 +55,20 @@ main{
         font-size: 18px;
     }
 
+    #articulo{
+        width: 1010px;
+    }
+    #articulo img{
+        display: inline-block;
+        /* float: left; */
+        width: 270px;
+    }
+    #articulo p{
+        display: inline-block;
+        /* float: left; */
+        width: 650px;
+    }
+
 footer{
     height: 150px;
     background-color: #e7e7e7;
