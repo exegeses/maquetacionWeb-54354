@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    height: 130px;
+    background-color: #444444;
+}
+nav{
+    height: 60px;
+    background: #E75B43;
+}
+#redes{
+    width: 36px;
+    position: fixed;
+    right: 0px;
+}
+    #redes img{
+        width: 36px;
+    }
+
+main{
+    min-height: 900px;
+}
+footer{
+    height: 130px;
+    background-color: #444444;
+}

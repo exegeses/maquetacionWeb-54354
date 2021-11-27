@@ -1,0 +1,17 @@
+#rojo, #verde, #celeste{
+    width: 100px;
+    height: 100px;
+    /*position: relative; /* desde donde están */
+    position: absolute; /* desde el contenedor */
+}
+#rojo{
+    background-color: #f84343;
+}
+#verde{
+    background-color: #82f843;
+    left: 100px;
+}
+#celeste{
+    background-color: #43f8f5;
+    top: 100px;
+}
